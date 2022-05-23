@@ -1,0 +1,27 @@
+.list{
+    border: 1px solid;
+    display: flex;
+    width: 27%;
+    margin: auto;
+    gap: 128px;
+    height: 54px;
+    margin-top: 10px;
+  }
+  .checkbox{
+      margin: auto;
+      margin-left: 15px;
+  }
+  .button{
+    width: 16%;
+    height: 28px;
+    margin: auto;
+    margin-right: 20px;
+  }
+  .todoInput{
+    width: 20%;
+    height: 35px;
+  }
+  .todobutton{
+    height: 38px;
+    margin-left: 10px;
+  }
